@@ -12,7 +12,7 @@ import Footer from './components/footer'
 // Mis paginas
 import Caracteristicas from './pages/caracteristicas'
 import Contacto from './pages/contacto'
-import Galeria from './components/galeria'
+import ListaPeliculas from './components/peliculas'
 
 
 function App() {
@@ -35,8 +35,8 @@ function App() {
             element={<Contacto />}
           />
           <Route 
-            path='/galeria'
-            element={<Galeria />}
+            path='/peliculas'
+            element={<ListaPeliculas />}
           />
         </Routes>
 

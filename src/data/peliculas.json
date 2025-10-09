@@ -1,0 +1,16 @@
+{
+  "peliculas": [
+    {
+        "id": 1,
+        "titulo": "Barbie",
+        "año": 2023,
+        "genero": "Comedia"
+    },
+    {
+        "id": 2,
+        "titulo": "Elementos",
+        "año": 2023,
+        "genero": "Animación"
+    }
+  ]
+}
