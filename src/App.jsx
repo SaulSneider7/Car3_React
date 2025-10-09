@@ -12,6 +12,7 @@ import Footer from './components/footer'
 // Mis paginas
 import Caracteristicas from './pages/caracteristicas'
 import Contacto from './pages/contacto'
+import Galeria from './components/galeria'
 
 
 function App() {
@@ -32,6 +33,10 @@ function App() {
           <Route 
             path='/contacto'
             element={<Contacto />}
+          />
+          <Route 
+            path='/galeria'
+            element={<Galeria />}
           />
         </Routes>
 

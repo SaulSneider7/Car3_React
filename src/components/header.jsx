@@ -12,6 +12,7 @@ function Header() {
                         <li><Link to="/">Inicio</Link></li>
                         <li><Link to="/caracteristicas">Características</Link></li>
                         <li><Link to="/contacto">Contacto</Link></li>
+                        <li><Link to="/galeria">Galeria</Link></li>
                     </ul>
                 </nav>
             </div>
