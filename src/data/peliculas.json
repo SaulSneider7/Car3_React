@@ -13,6 +13,48 @@
         "año": 2023,
         "genero": "Animación",
         "imagen": "elementos.jpeg"
+    },
+    {
+        "id": 3,
+        "titulo": "Encanto",
+        "año": 2021,
+        "genero": "Animación",
+        "imagen": "encanto.webp"
+    },
+    {
+        "id": 4,
+        "titulo": "La Casa de Papel",
+        "año": 2017,
+        "genero": "Drama",
+        "imagen": "casa_de_papel.jpg"
+    },
+    {
+        "id": 5,
+        "titulo": "El Señor de los Anillos",
+        "año": 2001,
+        "genero": "Aventura",
+        "imagen": "señor_de_los_anillos.jpg"
+    },
+    {
+        "id": 6,
+        "titulo": "Harry Potter",
+        "año": 2001,
+        "genero": "Aventura",
+        "imagen": "harry_potter.webp"
+    },
+    {
+        "id": 7,
+        "titulo": "Juego de Tronos",
+        "año": 2011,
+        "genero": "Drama",
+        "imagen": "juego_de_tronos.jpg"
+    },
+    {
+        "id": 8,
+        "titulo": "Avengers",
+        "año": 2012,
+        "genero": "Acción",
+        "imagen": "avengers.webp"
     }
   ]
 }

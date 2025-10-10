@@ -2,7 +2,7 @@ import datos from '../data/peliculas.json';
 
 function ListaPeliculas() {
   return (
-    <div className="min-h-screen bg-gray-50 p-60">
+    <div className="bg-gray-50 p-20">
       <h1 className="text-3xl font-bold text-center mb-8 text-blue-600">
         Lista de Películas
       </h1>
