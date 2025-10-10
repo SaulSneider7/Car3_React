@@ -9,10 +9,16 @@ function ListaPeliculas() {
 
       <div className="grid gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
         {datos.peliculas.map((pelicula) => (
+          //imporar imagenes local
           <div
             key={pelicula.id}
             className="bg-white shadow-md rounded-2xl p-4 hover:shadow-xl transition-shadow duration-300"
           >
+            <img
+              src={`./${pelicula.imagen}`}
+              alt={pelicula.titulo}
+              className="w-full rounded-2xl mb-4"
+            />
             <h3 className="text-lg font-semibold text-gray-800 mb-2">
               {pelicula.titulo}
             </h3>

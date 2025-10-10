@@ -4,13 +4,15 @@
         "id": 1,
         "titulo": "Barbie",
         "año": 2023,
-        "genero": "Comedia"
+        "genero": "Comedia",
+        "imagen": "barbie.webp"
     },
     {
         "id": 2,
         "titulo": "Elementos",
         "año": 2023,
-        "genero": "Animación"
+        "genero": "Animación",
+        "imagen": "elementos.jpeg"
     }
   ]
 }
